@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Pomodoro</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">KCJd3sofaijUrG8Kxi9OoRpoAS7nwA9fND2vx</string>
+</resources>
